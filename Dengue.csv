@@ -1,0 +1,553 @@
+ID_MUNICIP,name_muni,total_casos,casos_sorotipados,prop_sorotipagem
+351520,Estrela D'oeste,3615,144,3.98%
+352115,Ipiguá,1529,52,3.40%
+354080,Potirendaba,6734,217,3.22%
+352570,José Bonifácio,5696,178,3.13%
+352070,Indiaporã,2071,54,2.61%
+353900,Pirangi,2910,74,2.54%
+350800,Buri,1733,39,2.25%
+354980,São José Do Rio Preto,236078,5263,2.23%
+350480,Bálsamo,1500,33,2.20%
+352000,Igaraçu Do Tietê,2650,55,2.08%
+353960,Planalto,1591,29,1.82%
+353040,Mirassolândia,825,15,1.82%
+354970,São José Do Rio Pardo,9062,164,1.81%
+354340,Ribeirão Preto,147690,2602,1.76%
+353250,Neves Paulista,1925,31,1.61%
+355310,Taiaçu,564,9,1.60%
+355370,Taquaritinga,14684,228,1.55%
+353140,Monte Aprazível,2298,35,1.52%
+355410,Taubaté,49027,738,1.51%
+350460,Bady Bassitt,4931,69,1.40%
+353300,Nova Granada,3122,40,1.28%
+352480,Jales,12806,161,1.26%
+354640,Santa Cruz Do Rio Pardo,9246,110,1.19%
+355690,Vista Alegre Do Alto,1771,21,1.19%
+354940,São Joaquim Da Barra,7847,85,1.08%
+351200,Colina,2685,29,1.08%
+350210,Andradina,17128,178,1.04%
+351730,Guaimbê,982,10,1.02%
+352450,Jaci,1476,15,1.02%
+351110,Catanduva,42628,429,1.01%
+353740,Pereira Barreto,3127,30,0.96%
+350010,Adamantina,10148,97,0.96%
+353625,Parisi,837,8,0.96%
+351100,Castilho,4557,43,0.94%
+355610,Valentim Gentil,2584,24,0.93%
+352930,Matão,16329,148,0.91%
+350335,Arco-Íris,565,5,0.88%
+351550,Fernandópolis,18586,163,0.88%
+353670,Pederneiras,5238,45,0.86%
+352370,Itirapuã,699,6,0.86%
+352044,Ilha Solteira,4093,34,0.83%
+353290,Nova Europa,2303,19,0.83%
+352740,Lucélia,2924,24,0.82%
+350160,Americana,32685,264,0.81%
+354370,Rincão,1742,14,0.80%
+350550,Barretos,19887,159,0.80%
+353940,Piratininga,1760,14,0.80%
+353450,Oscar Bressane,1021,8,0.78%
+350930,Cajobi,1532,12,0.78%
+354250,Reginópolis,1409,11,0.78%
+353150,Monte Azul Paulista,2452,19,0.77%
+351620,Franca,34406,266,0.77%
+350280,Araçatuba,40617,308,0.76%
+351740,Guaíra,10817,82,0.76%
+352330,Itariri,541,4,0.74%
+355260,Tabapuã,3846,28,0.73%
+352270,Itápolis,9038,64,0.71%
+352660,Lavrinhas,1004,7,0.70%
+354060,Porto Feliz,10335,71,0.69%
+353990,Poloni,586,4,0.68%
+352530,Jaú,19551,133,0.68%
+350420,Auriflama,2796,19,0.68%
+353460,Osvaldo Cruz,8255,56,0.68%
+353600,Parapuã,2802,19,0.68%
+353190,Morro Agudo,7398,50,0.68%
+351530,Estrela Do Norte,749,5,0.67%
+350610,Bebedouro,11404,75,0.66%
+352050,Indaiatuba,15122,99,0.65%
+351660,Gália,772,5,0.65%
+354425,Rosana,8500,55,0.65%
+352950,Mendonça,2944,19,0.65%
+350320,Araraquara,63465,392,0.62%
+355170,Sertãozinho,19505,120,0.62%
+351960,Ibitinga,9736,59,0.61%
+354070,Porto Ferreira,9579,58,0.61%
+350340,Arealva,1171,7,0.60%
+353510,Palmares Paulista,3359,20,0.60%
+350520,Bariri,3985,23,0.58%
+353030,Mirassol,2948,17,0.58%
+355715,Zacarias,521,3,0.58%
+351330,Cruzália,696,4,0.57%
+351020,Capão Bonito,1793,10,0.56%
+354620,Santa Cruz Da Conceição,543,3,0.55%
+351240,Cordeirópolis,3630,20,0.55%
+353970,Platina,549,3,0.55%
+355030,São Paulo,833368,4553,0.55%
+350100,Altinópolis,925,5,0.54%
+354160,Promissão,3564,19,0.53%
+350500,Barão De Antonina,573,3,0.52%
+352680,Lençóis Paulista,5365,28,0.52%
+353760,Peruíbe,6951,36,0.52%
+351670,Garça,14768,76,0.51%
+352170,Itaberá,991,5,0.50%
+352710,Lins,15072,74,0.49%
+355320,Taiúva,818,4,0.49%
+353950,Pitangueiras,3570,17,0.48%
+354780,Santo André,19313,91,0.47%
+352690,Limeira,29685,139,0.47%
+354890,São Carlos,47637,222,0.47%
+354000,Pompéia,3018,14,0.46%
+355720,Chavantes,2397,11,0.46%
+351470,Echaporã,1314,6,0.46%
+351920,Iacri,1548,7,0.45%
+351990,Iepê,2896,13,0.45%
+352080,Inúbia Paulista,1344,6,0.45%
+352850,Mairiporã,10804,48,0.44%
+352890,Mariápolis,1371,6,0.44%
+354390,Rio Claro,23335,101,0.43%
+355190,Severínia,2117,9,0.43%
+353570,Paraíso,1454,6,0.41%
+352240,Itapeva,5680,23,0.40%
+355680,Viradouro,3267,13,0.40%
+351870,Guarujá,22166,88,0.40%
+352940,Mauá,13866,55,0.40%
+355660,Vera Cruz,2775,11,0.40%
+350150,Alvinlândia,760,3,0.39%
+353620,Pariquera-Açu,2093,8,0.38%
+354850,Santos,33247,126,0.38%
+352540,Jeriquara,540,2,0.37%
+352900,Marília,49074,180,0.37%
+354380,Rinópolis,2463,9,0.37%
+352410,Ituverava,4130,15,0.36%
+350530,Barra Bonita,1936,7,0.36%
+350780,Brodowski,4821,17,0.35%
+355500,Tupã,23299,82,0.35%
+350600,Bauru,87711,302,0.34%
+355160,Serra Negra,592,2,0.34%
+353730,Penápolis,11896,40,0.34%
+354750,Santa Rita Do Passa Quatro,5071,17,0.34%
+355710,Votuporanga,56943,190,0.33%
+351840,Guaratinguetá,16521,55,0.33%
+351350,Cubatão,13883,46,0.33%
+352090,Ipaussu,1211,4,0.33%
+350810,Buritama,6057,20,0.33%
+350410,Atibaia,19969,65,0.33%
+355580,Urânia,4953,16,0.32%
+351600,Flórida Paulista,2487,8,0.32%
+352350,Itatinga,630,2,0.32%
+355270,Tabatinga,2846,9,0.32%
+351070,Cardoso,1937,6,0.31%
+353470,Ourinhos,18554,57,0.31%
+355620,Valinhos,11475,35,0.31%
+351900,Herculândia,2301,7,0.30%
+354020,Pontal,4296,13,0.30%
+351640,Franco Da Rocha,14553,44,0.30%
+354420,Riolândia,2017,6,0.30%
+350400,Assis,24494,72,0.29%
+355520,Turiúba,681,2,0.29%
+350980,Campos Novos Paulista,1713,5,0.29%
+352730,Louveira,2095,6,0.29%
+351280,Cosmópolis,3858,11,0.29%
+351495,Embaúba,703,2,0.28%
+352190,Itajobi,2916,8,0.27%
+354760,Santa Rosa De Viterbo,3282,9,0.27%
+350190,Amparo,10249,28,0.27%
+351150,Cerquilho,2943,8,0.27%
+353390,Olímpia,13402,36,0.27%
+350880,Cafelândia,1865,5,0.27%
+354700,Santa Maria Da Serra,750,2,0.27%
+353810,Pindorama,2273,6,0.26%
+353340,Nova Odessa,6862,18,0.26%
+353870,Piracicaba,72363,186,0.26%
+352990,Miracatu,786,2,0.25%
+354650,Santa Ernestina,1574,4,0.25%
+351860,Guariba,3169,8,0.25%
+351700,Getulina,1193,3,0.25%
+354150,Presidente Venceslau,3209,8,0.25%
+351000,Cândido Mota,7267,18,0.25%
+351720,Guaiçara,2045,5,0.24%
+350635,Bertioga,7478,18,0.24%
+351450,Duartina,1247,3,0.24%
+353660,Paulo De Faria,2520,6,0.24%
+351880,Guarulhos,89473,213,0.24%
+350950,Campinas,234791,557,0.24%
+352320,Itararé,3419,8,0.23%
+351130,Cedral,3458,8,0.23%
+354880,São Caetano Do Sul,15612,36,0.23%
+351810,Guarantã,1311,3,0.23%
+350570,Barueri,12761,29,0.23%
+355450,Tietê,3589,8,0.22%
+352100,Iperó,3591,8,0.22%
+350120,Álvares Florence,1347,3,0.22%
+355560,Uchoa,2272,5,0.22%
+352250,Itapevi,2298,5,0.22%
+354090,Pradópolis,1842,4,0.22%
+350660,Biritiba Mirim,2312,5,0.22%
+353350,Novo Horizonte,10664,23,0.22%
+351685,Gavião Peixoto,1402,3,0.21%
+355140,Serra Azul,1423,3,0.21%
+353070,Mogi Guaçu,40884,86,0.21%
+350770,Braúna,957,2,0.21%
+352130,Ipuã,1440,3,0.21%
+351010,Cândido Rodrigues,518,1,0.19%
+355130,Sebastianópolis Do Sul,518,1,0.19%
+354560,Santa Adélia,2598,5,0.19%
+352830,Magda,522,1,0.19%
+352042,Ilha Comprida,1060,2,0.19%
+355540,Ubatuba,17702,33,0.19%
+351210,Colômbia,1081,2,0.19%
+352500,Jandira,1084,2,0.18%
+353930,Pirassununga,9242,17,0.18%
+351907,Hortolândia,19113,35,0.18%
+355240,Sumaré,16930,31,0.18%
+350920,Cajamar,2771,5,0.18%
+350580,Bastos,4543,8,0.18%
+350775,Brejo Alegre,568,1,0.18%
+355330,Tambaú,3999,7,0.18%
+353260,Nhandeara,2902,5,0.17%
+352790,Lutécia,595,1,0.17%
+352910,Marinópolis,597,1,0.17%
+352580,Júlio Mesquita,1197,2,0.17%
+354330,Ribeirão Pires,3002,5,0.17%
+351630,Francisco Morato,4220,7,0.17%
+351460,Dumont,1809,3,0.17%
+351980,Icém,603,1,0.17%
+350170,Américo Brasiliense,9780,16,0.16%
+355100,São Vicente,4287,7,0.16%
+351518,Espírito Santo Do Pinhal,7967,13,0.16%
+355470,Torrinha,1866,3,0.16%
+351510,Embu-Guaçu,1249,2,0.16%
+351400,Dobrada,1892,3,0.16%
+351060,Carapicuíba,7066,11,0.16%
+354170,Quatá,3266,5,0.15%
+350680,Bocaina,657,1,0.15%
+354290,Ribeirão Bonito,1982,3,0.15%
+350750,Botucatu,19992,30,0.15%
+355220,Sorocaba,106539,158,0.15%
+350650,Birigui,38448,57,0.15%
+354400,Rio Das Pedras,688,1,0.15%
+351800,Guarani D'oeste,701,1,0.14%
+354490,Sales Oliveira,1410,2,0.14%
+354580,Santa Bárbara D'oeste,26829,38,0.14%
+354470,Sagres,1413,2,0.14%
+353520,Palmeira D'oeste,2833,4,0.14%
+352340,Itatiba,7136,10,0.14%
+353020,Mirante Do Paranapanema,2855,4,0.14%
+354990,São José Dos Campos,150947,210,0.14%
+351440,Dracena,10830,15,0.14%
+354460,Sabino,722,1,0.14%
+353880,Piraju,2932,4,0.14%
+350960,Campo Limpo Paulista,2206,3,0.14%
+354610,Santa Clara D'oeste,736,1,0.14%
+354800,Santo Antônio De Posse,7403,10,0.14%
+350740,Borborema,5270,7,0.13%
+353180,Monte Mor,3774,5,0.13%
+352770,Luiziânia,755,1,0.13%
+350395,Aspásia,756,1,0.13%
+350945,Campina Do Monte Alegre,764,1,0.13%
+354440,Rubiácea,764,1,0.13%
+350910,Caiuá,766,1,0.13%
+353800,Pindamonhangaba,42488,55,0.13%
+352010,Igarapava,1560,2,0.13%
+350330,Araras,10222,13,0.13%
+352040,Ilhabela,13430,17,0.13%
+352440,Jacareí,43633,55,0.13%
+350590,Batatais,9564,12,0.13%
+353650,Paulínia,17644,22,0.12%
+351220,Conchal,4848,6,0.12%
+351040,Capivari,5669,7,0.12%
+351750,Guapiaçu,4145,5,0.12%
+355090,São Simão,1659,2,0.12%
+351910,Iacanga,1663,2,0.12%
+350070,Agudos,6666,8,0.12%
+351190,Clementina,838,1,0.12%
+351680,Gastão Vidigal,849,1,0.12%
+352390,Itu,25825,30,0.12%
+353630,Patrocínio Paulista,2670,3,0.11%
+354140,Presidente Prudente,100828,113,0.11%
+351650,Gabriel Monteiro,906,1,0.11%
+351380,Diadema,14750,16,0.11%
+355010,São Manuel,4645,5,0.11%
+351820,Guararapes,8434,9,0.11%
+350370,Ariranha,1878,2,0.11%
+355535,Ubarana,1883,2,0.11%
+355060,São Roque,4794,5,0.10%
+354730,Santana De Parnaíba,7760,8,0.10%
+353980,Poá,7873,8,0.10%
+354350,Riversul,989,1,0.10%
+353440,Osasco,28776,29,0.10%
+351560,Fernando Prestes,993,1,0.10%
+351230,Conchas,4005,4,0.10%
+354805,Santo Antônio Do Aracanguá,1006,1,0.10%
+350380,Artur Nogueira,3125,3,0.10%
+355670,Vinhedo,8434,8,0.09%
+354520,Salto,15837,15,0.09%
+354910,São João Da Boa Vista,13907,13,0.09%
+351710,Glicério,1071,1,0.09%
+354630,Santa Cruz Das Palmeiras,5411,5,0.09%
+352670,Leme,11910,11,0.09%
+353060,Mogi Das Cruzes,23881,22,0.09%
+350860,Cachoeira Paulista,3298,3,0.09%
+351080,Casa Branca,3306,3,0.09%
+350275,Araçariguama,1123,1,0.09%
+354220,Rancharia,9209,8,0.09%
+350115,Alumínio,1154,1,0.09%
+352260,Itapira,13901,12,0.09%
+352290,Itapuí,2325,2,0.09%
+354320,Ribeirão Do Sul,2330,2,0.09%
+351780,Guaraçaí,3505,3,0.09%
+351300,Cotia,5865,5,0.09%
+354660,Santa Fé Do Sul,7275,6,0.08%
+354200,Quintana,1263,1,0.08%
+354540,Salto Grande,2543,2,0.08%
+350790,Brotas,3854,3,0.08%
+354510,Salmourão,1291,1,0.08%
+353050,Mococa,7766,6,0.08%
+354600,Santa Branca,1300,1,0.08%
+351170,Charqueada,2635,2,0.08%
+352210,Itanhaém,10575,8,0.08%
+351120,Catiguá,1362,1,0.07%
+352030,Iguape,2767,2,0.07%
+355210,Socorro,5547,4,0.07%
+352140,Iracemápolis,2844,2,0.07%
+353860,Piracaia,1435,1,0.07%
+355150,Serrana,7390,5,0.07%
+352920,Martinópolis,4465,3,0.07%
+355640,Vargem Grande Do Sul,4518,3,0.07%
+354260,Registro,3070,2,0.07%
+350900,Caieiras,6172,4,0.06%
+351515,Engenheiro Coelho,3109,2,0.06%
+352980,Mineiros Do Tietê,3123,2,0.06%
+351930,Ibaté,3166,2,0.06%
+352360,Itirapina,1586,1,0.06%
+350050,Águas De Lindóia,1589,1,0.06%
+352280,Itaporanga,1596,1,0.06%
+350510,Barbosa,1634,1,0.06%
+351490,Elias Fausto,1662,1,0.06%
+355630,Valparaíso,5027,3,0.06%
+350990,Cananéia,1752,1,0.06%
+353770,Piacatu,1753,1,0.06%
+352310,Itaquaquecetuba,5386,3,0.06%
+353080,Mogi Mirim,27080,15,0.06%
+352590,Jundiaí,40325,22,0.05%
+353320,Nova Independência,1843,1,0.05%
+352470,Jaguariúna,16765,9,0.05%
+353110,Mongaguá,3769,2,0.05%
+352180,Itaí,1887,1,0.05%
+352810,Macaubal,1920,1,0.05%
+353360,Nuporanga,1937,1,0.05%
+350840,Cabreúva,1960,1,0.05%
+352800,Macatuba,2000,1,0.05%
+354870,São Bernardo Do Campo,26513,13,0.05%
+351160,Cesário Lange,2048,1,0.05%
+355070,São Sebastião,21275,10,0.05%
+351370,Descalvado,6408,3,0.05%
+355390,Tarabai,2151,1,0.05%
+350760,Bragança Paulista,15283,7,0.05%
+351540,Fartura,2234,1,0.04%
+351570,Ferraz De Vasconcelos,4530,2,0.04%
+354100,Praia Grande,9297,4,0.04%
+353540,Panorama,4810,2,0.04%
+351410,Dois Córregos,4838,2,0.04%
+351905,Holambra,2479,1,0.04%
+354770,Santo Anastácio,2512,1,0.04%
+351500,Embu Das Artes,2610,1,0.04%
+355300,Taguaí,2638,1,0.04%
+353530,Palmital,5313,2,0.04%
+352510,Jardinópolis,2930,1,0.03%
+353130,Monte Alto,5977,2,0.03%
+351340,Cruzeiro,6051,2,0.03%
+353890,Pirajuí,3026,1,0.03%
+354120,Presidente Bernardes,3034,1,0.03%
+355040,São Pedro,6156,2,0.03%
+351030,Capela Do Alto,3114,1,0.03%
+353480,Ouro Verde,3150,1,0.03%
+350130,Álvares Machado,3242,1,0.03%
+353640,Paulicéia,3322,1,0.03%
+355480,Tremembé,3528,1,0.03%
+354670,Santa Gertrudes,3604,1,0.03%
+355395,Tarumã,3909,1,0.03%
+352430,Jaboticabal,12164,3,0.02%
+355280,Taboão Da Serra,4174,1,0.02%
+350670,Boa Esperança Do Sul,4227,1,0.02%
+351940,Ibirá,4238,1,0.02%
+352600,Junqueirópolis,4241,1,0.02%
+352220,Itapecerica Da Serra,4325,1,0.02%
+352640,Laranjal Paulista,4508,1,0.02%
+355400,Tatuí,31946,7,0.02%
+353920,Pirapozinho,5240,1,0.02%
+353010,Mirandópolis,10502,2,0.02%
+351050,Caraguatatuba,28086,5,0.02%
+355700,Votorantim,11875,2,0.02%
+353710,Pedreira,6005,1,0.02%
+352230,Itapetininga,12166,2,0.02%
+350700,Boituva,7298,1,0.01%
+350450,Avaré,7320,1,0.01%
+355340,Tanabi,7452,1,0.01%
+352720,Lorena,16331,2,0.01%
+353550,Paraguaçu Paulista,10128,1,0.01%
+355250,Suzano,10568,1,0.01%
+350020,Adolfo,1078,0,0.00%
+350030,Aguaí,4774,0,0.00%
+350055,Águas De Santa Bárbara,1147,0,0.00%
+350060,Águas De São Pedro,765,0,0.00%
+350080,Alfredo Marcondes,1396,0,0.00%
+350110,Alto Alegre,1042,0,0.00%
+350140,Álvaro De Carvalho,601,0,0.00%
+350180,Américo De Campos,1648,0,0.00%
+350200,Analândia,1042,0,0.00%
+350220,Angatuba,1173,0,0.00%
+350240,Anhumas,618,0,0.00%
+350250,Aparecida,2493,0,0.00%
+350260,Aparecida D'oeste,1075,0,0.00%
+350290,Araçoiaba Da Serra,1078,0,0.00%
+350310,Arandu,708,0,0.00%
+350360,Areiópolis,855,0,0.00%
+350390,Arujá,7495,0,0.00%
+350440,Avanhandava,990,0,0.00%
+350490,Bananal,735,0,0.00%
+350560,Barrinha,6218,0,0.00%
+350620,Bento De Abreu,605,0,0.00%
+350630,Bernardino De Campos,1596,0,0.00%
+350640,Bilac,1750,0,0.00%
+350690,Bofete,638,0,0.00%
+350730,Boracéia,695,0,0.00%
+350820,Buritizal,503,0,0.00%
+350850,Caçapava,12603,0,0.00%
+350870,Caconde,1630,0,0.00%
+350925,Cajati,3141,0,0.00%
+350940,Cajuru,1210,0,0.00%
+351015,Canitar,1047,0,0.00%
+351140,Cerqueira César,757,0,0.00%
+351250,Coroados,1572,0,0.00%
+351290,Cosmorama,1464,0,0.00%
+351310,Cravinhos,3885,0,0.00%
+351360,Cunha,690,0,0.00%
+351385,Dirce Reis,709,0,0.00%
+351420,Dolcinópolis,538,0,0.00%
+351430,Dourado,1205,0,0.00%
+351480,Eldorado,771,0,0.00%
+351492,Elisiário,665,0,0.00%
+351512,Emilianópolis,590,0,0.00%
+351519,Espírito Santo Do Turvo,577,0,0.00%
+351535,Euclides Da Cunha Paulista,1719,0,0.00%
+351590,Floreal,666,0,0.00%
+351610,Florínea,614,0,0.00%
+351690,General Salgado,2826,0,0.00%
+351770,Guará,678,0,0.00%
+351790,Guaraci,834,0,0.00%
+351830,Guararema,2709,0,0.00%
+351850,Guareí,712,0,0.00%
+351885,Guatapará,905,0,0.00%
+351925,Iaras,600,0,0.00%
+351950,Ibirarema,1737,0,0.00%
+351970,Ibiúna,1820,0,0.00%
+352020,Igaratá,711,0,0.00%
+352060,Indiana,1150,0,0.00%
+352110,Ipeúna,1420,0,0.00%
+352150,Irapuã,1068,0,0.00%
+352160,Irapuru,1706,0,0.00%
+352200,Itaju,781,0,0.00%
+352380,Itobi,581,0,0.00%
+352400,Itupeva,1865,0,0.00%
+352420,Jaborandi,1122,0,0.00%
+352520,Jarinu,2242,0,0.00%
+352550,Joanópolis,1790,0,0.00%
+352560,João Ramalho,865,0,0.00%
+352610,Juquiá,798,0,0.00%
+352620,Juquitiba,806,0,0.00%
+352650,Lavínia,925,0,0.00%
+352725,Lourdes,654,0,0.00%
+352760,Luís Antônio,2385,0,0.00%
+352820,Macedônia,588,0,0.00%
+352840,Mairinque,1637,0,0.00%
+352860,Manduri,1310,0,0.00%
+352870,Marabá Paulista,825,0,0.00%
+352880,Maracaí,1954,0,0.00%
+352885,Marapoama,638,0,0.00%
+352960,Meridiano,1474,0,0.00%
+352965,Mesópolis,716,0,0.00%
+353000,Mira Estrela,1003,0,0.00%
+353100,Monções,698,0,0.00%
+353160,Monte Castelo,1330,0,0.00%
+353200,Morungaba,1039,0,0.00%
+353205,Motuca,774,0,0.00%
+353210,Murutinga Do Sul,859,0,0.00%
+353215,Nantes,574,0,0.00%
+353220,Narandiba,1678,0,0.00%
+353240,Nazaré Paulista,630,0,0.00%
+353270,Nipoã,669,0,0.00%
+353280,Nova Aliança,2264,0,0.00%
+353310,Nova Guataporanga,559,0,0.00%
+353330,Nova Luzitânia,1207,0,0.00%
+353370,Ocauçu,1206,0,0.00%
+353400,Onda Verde,1427,0,0.00%
+353410,Oriente,1016,0,0.00%
+353420,Orindiúva,2637,0,0.00%
+353430,Orlândia,4639,0,0.00%
+353475,Ouroeste,2437,0,0.00%
+353490,Pacaembu,2602,0,0.00%
+353500,Palestina,3989,0,0.00%
+353560,Paraibuna,1128,0,0.00%
+353580,Paranapanema,1015,0,0.00%
+353590,Paranapuã,1075,0,0.00%
+353690,Pedranópolis,1082,0,0.00%
+353700,Pedregulho,1000,0,0.00%
+353715,Pedrinhas Paulista,566,0,0.00%
+353780,Piedade,842,0,0.00%
+353790,Pilar Do Sul,605,0,0.00%
+353850,Piquete,968,0,0.00%
+354025,Pontalinda,1134,0,0.00%
+354030,Pontes Gestal,831,0,0.00%
+354040,Populina,686,0,0.00%
+354075,Potim,9567,0,0.00%
+354085,Pracinha,695,0,0.00%
+354130,Presidente Epitácio,3609,0,0.00%
+354180,Queiroz,1371,0,0.00%
+354190,Queluz,501,0,0.00%
+354210,Rafard,1095,0,0.00%
+354240,Regente Feijó,3486,0,0.00%
+354360,Rifaina,949,0,0.00%
+354430,Roseira,1173,0,0.00%
+354450,Rubinéia,1081,0,0.00%
+354480,Sales,893,0,0.00%
+354515,Saltinho,1459,0,0.00%
+354530,Salto De Pirapora,2202,0,0.00%
+354550,Sandovalina,1151,0,0.00%
+354570,Santa Albertina,1843,0,0.00%
+354680,Santa Isabel,5099,0,0.00%
+354690,Santa Lúcia,1140,0,0.00%
+354710,Santa Mercedes,1300,0,0.00%
+354740,Santa Rita D'oeste,838,0,0.00%
+354765,Santa Salete,1027,0,0.00%
+354790,Santo Antônio Da Alegria,536,0,0.00%
+354830,Santo Expedito,845,0,0.00%
+354840,Santópolis Do Aguapeí,991,0,0.00%
+354860,São Bento Do Sapucaí,656,0,0.00%
+354900,São Francisco,987,0,0.00%
+354925,São João De Iracema,804,0,0.00%
+354930,São João Do Pau D'alho,1027,0,0.00%
+355000,São Luiz Do Paraitinga,884,0,0.00%
+355020,São Miguel Arcanjo,783,0,0.00%
+355050,São Pedro Do Turvo,2232,0,0.00%
+355080,São Sebastião Da Grama,1028,0,0.00%
+355110,Sarapuí,536,0,0.00%
+355180,Sete Barras,943,0,0.00%
+355230,Sud Mennucci,3398,0,0.00%
+355255,Suzanápolis,1493,0,0.00%
+355290,Taciba,902,0,0.00%
+355360,Tapiratiba,1806,0,0.00%
+355380,Taquarituba,643,0,0.00%
+355430,Teodoro Sampaio,7003,0,0.00%
+355440,Terra Roxa,578,0,0.00%
+355490,Três Fronteiras,801,0,0.00%
+355510,Tupi Paulista,4818,0,0.00%
+355530,Turmalina,562,0,0.00%
+355600,Urupês,1380,0,0.00%
+355635,Vargem,614,0,0.00%
+355645,Vargem Grande Paulista,2033,0,0.00%
+355650,Várzea Paulista,6905,0,0.00%
+355695,Vitória Brasil,688,0,0.00%
+355730,Estiva Gerbi,1638,0,0.00%
